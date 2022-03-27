@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_lunch">Book Lunch</string>
+    <string name="add_book">Add Book</string>
+    <string name="add_book2">Add Book</string>
+    <string name="book_price">Book Price</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="EditBook">Edit Book</string>
+    <string name="deletbook">Delet book</string>
+    <string name="add_img">Add Image</string>
+</resources>

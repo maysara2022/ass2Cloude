@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.179" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable-v24/shape2.xml" value="0.171" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.147" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1945" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.1725" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.179" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/drawable/shape.xml" value="0.195" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/activity_add_book.xml" value="0.25" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/activity_books_adabter.xml" value="0.27291666666666664" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/activity_books_detiles.xml" value="0.27291666666666664" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/activity_librarybook.xml" value="0.25" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/books_adapter.xml" value="0.27291666666666664" />
+        <entry key="..\:/flutter Projects/MyApplication/app/src/main/res/layout/list_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
